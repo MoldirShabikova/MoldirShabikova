@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi 👋, I'm Moldir Shabikova<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about React, JavaScript<br>👨‍💻 All of my projects are available at https://moldir-shabikova.netlify.app<br>
+<h1 align="center">Hello 👋 I'm Moldir Shabikova</h1>
+
+<img  src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" height="290px" align="right" />
+
+- All about me **[My Website](https://moldir-shabikova.netlify.app)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👩🏻‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
 
 
 ## 🌐 Socials:
